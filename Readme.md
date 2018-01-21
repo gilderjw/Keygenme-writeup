@@ -123,6 +123,8 @@ while True:
 
 ![keygen.py](res/keygen.png)
 
+![keygen success](res/keygenme_pass.png)
+
 ## Tips for Reverse Engineering
 
 * Look at strings in the binary
