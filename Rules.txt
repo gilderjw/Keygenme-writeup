@@ -1,0 +1,7 @@
+keygenme.exe is a "real" keygenme, becourse it checks that if the serial is created by the real algorythm. It is very easy, after this i make a harder one. Hope you like it.
+
+1. No patching
+2. No bruting
+3. Just make a keygen
+
+I made my own keygen there, it is protected by password, but when you get the algorythm, you should guess the pass.
